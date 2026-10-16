@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HTMLPack</string>
+    <string name="app_subtitle">Runtime a správce HTML aplikací</string>
+    <string name="welcome_title">Vítejte v HTMLPacku</string>
+    <string name="welcome_desc">Vytvářejte, spravujte a spouštějte mobilní aplikace postavené na HTML, CSS a JavaScriptu v bezpečném sandboxu.</string>
+    <string name="create_first_app">Vytvořit první aplikaci</string>
+    <string name="import_htapk">Importovat .htapk balíček</string>
+    <string name="search_apps">Hledat v aplikacích…</string>
+    <string name="no_apps_found">Nebyly nalezeny žádné aplikace</string>
+    <string name="filter_all">Vše</string>
+    <string name="filter_fullscreen">Fullscreen</string>
+    <string name="filter_offline">Offline</string>
+    <string name="filter_pin">Se zámkem</string>
+    <string name="run_app">Spustit</string>
+    <string name="edit_app">Upravit</string>
+    <string name="export_app">Exportovat .htapk</string>
+    <string name="create_shortcut">Zástupce na plochu</string>
+    <string name="duplicate_app">Duplikovat</string>
+    <string name="delete_app">Smazat</string>
+    <string name="settings">Nastavení</string>
+    <string name="about">O aplikaci</string>
+</resources>

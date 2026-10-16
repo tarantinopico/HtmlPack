@@ -1,0 +1,6 @@
+{
+  "name": "HTMLPack",
+  "description": "Android runtime a správce HTML aplikací s podporou .htapk formátu a zástupců",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

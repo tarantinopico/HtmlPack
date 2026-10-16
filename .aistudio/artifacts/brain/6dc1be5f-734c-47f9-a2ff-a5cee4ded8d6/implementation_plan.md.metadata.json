@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for GitHub Actions CI/CD workflow that compiles HTMLPack into an Android APK, uploads it as an artifact, and creates a GitHub Release when tags are pushed.",
+  "updatedAt": "2026-10-16T10:04:03.922275831Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HTMLPack</string>
+    <string name="app_subtitle">HTML Apps Runtime &amp; Manager</string>
+    <string name="welcome_title">Welcome to HTMLPack</string>
+    <string name="welcome_desc">Create, manage and run standalone HTML, CSS and JavaScript mobile apps in a secure sandbox.</string>
+    <string name="create_first_app">Create First App</string>
+    <string name="import_htapk">Import .htapk Package</string>
+    <string name="search_apps">Search apps…</string>
+    <string name="no_apps_found">No apps found</string>
+    <string name="filter_all">All</string>
+    <string name="filter_fullscreen">Fullscreen</string>
+    <string name="filter_offline">Offline</string>
+    <string name="filter_pin">Locked</string>
+    <string name="run_app">Run</string>
+    <string name="edit_app">Edit</string>
+    <string name="export_app">Export .htapk</string>
+    <string name="create_shortcut">Add to Home Screen</string>
+    <string name="duplicate_app">Duplicate</string>
+    <string name="delete_app">Delete</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+</resources>
